@@ -25,7 +25,7 @@ app = Flask(__name__)
 @app.route('/')
 def hello():
     """Return a friendly HTTP greeting."""
-    return 'CMPE 281-Cloud Technologies Lab2_Fnu Butul Parveen : Deployed web app successfully on Google Application Engine'
+    return 'Lab #2 Farazuddin doing under course CMPE 281-Cloud Technologies: Deployed web app successfully on Google Application Engine'
 
 
 if __name__ == '__main__':
